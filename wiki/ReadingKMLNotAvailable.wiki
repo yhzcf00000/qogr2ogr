@@ -1,0 +1,7 @@
+Reading KML is not  available
+
+
+
+= Details =
+
+Adding it to datasource is wrong, i will remove it in next version.
